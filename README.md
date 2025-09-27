@@ -4,9 +4,9 @@
 
 > ## 🎉 重要更新公告 🎉
 > 
-> ### 🚀 新版本已发布！
+> ### 🚀 新版本即将发布！
 > 
-> **全新升级的卡密验证系统现已发布，采用现代化技术栈重构！**
+> **全新升级的卡密验证系统即将发布，采用现代化技术栈重构！**
 > 
 > 🔗 **新版开源地址：** [https://github.com/xiaoxiaoguai-yyds/xxgkami-pro](https://github.com/xiaoxiaoguai-yyds/xxgkami-pro)
 > 
